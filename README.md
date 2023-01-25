@@ -1,4 +1,4 @@
-<img src="./assets/ezgif.com-gif-maker.gif" alt="banner">
+<img src="./coding.gif" alt="banner">
 
 <p align="center">
   <a href="https://github.com/M-Hassan-Malik">
