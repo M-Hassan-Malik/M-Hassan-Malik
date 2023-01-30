@@ -13,7 +13,7 @@
 <!-- <a href="https://asharib.live/"><img src="https://img.shields.io/badge/personal website-F15B2A?style=for-the-badge&logo=firefox&logoColor=white"/></a> -->
   <a href="https://www.linkedin.com/in/m-hmalik"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0b5fbb?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/MHassanMalik97"><img  alt="Twitter" title="Twitter" src="https://img.shields.io/badge/twitter-1c96e9?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://asharib.medium.com/"><img  alt="Medium" title="Medium" src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white"/></a><br/>
+  <a href="https://MHassanMalik.medium.com/"><img  alt="Medium" title="Medium" src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white"/></a><br/>
   <a href="https://www.buymeacoffee.com/MHassanMalik"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
     
 </p>
