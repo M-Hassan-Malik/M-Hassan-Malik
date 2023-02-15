@@ -66,7 +66,6 @@
       <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
       <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="#"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
-      <a href="#"><img alt="SVG+XML" src="https://img.shields.io/badge/dotenv.svg?logo=svg&logoColor=white"></a>
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
@@ -138,8 +137,8 @@
 
   <!-- GitHub Readme Streak Stats - https://github.com/asharib90/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/asharib90/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="asharib90's streak" src="https://streak-stats.demolab.com/?user=asharib90&theme=monokai-metallian&hide_border=true"/>
+    <a href="https://github.com/M-Hassan-Malik/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="M-Hassan-Malik's streak" src="https://streak-stats.demolab.com/?user=M-Hassan-Malik&theme=monokai-metallian&hide_border=true"/>
     </a>
   </p>
 
