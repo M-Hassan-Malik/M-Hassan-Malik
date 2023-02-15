@@ -26,13 +26,10 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/Asharib90/US_visa_interview_notifier"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asharib90&repo=US_visa_interview_notifier&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/Asharib90/US_visa_interview_notifier"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asharib90&repo=Resume_parser_with_Spacy&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/Asharib90/US_visa_interview_notifier"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asharib90&repo=Name_entity_recognition&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
-    
+    <a href="https://github.com/M-Hassan-Malik/Evento.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=M-Hassan-Malik&repo=Evento&theme=react&bg_color=1F222E&title_color=4E96FFFF&hide_border=true&icon_color=4e96ff&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
-<a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/M-Hassan-Malik?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 </details>
 <details > 
