@@ -66,6 +66,7 @@
       <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
       <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="#"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
+      <a href="#"><img alt="SVG+XML" src="https://img.shields.io/badge/dotenv.svg?logo=svg&logoColor=white"></a>
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
