@@ -161,6 +161,6 @@
   <summary><h2>🏷️ My Trophies</h2></summary>
   <p>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=asharib90&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=M-Hassan-Malik&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 </details>
