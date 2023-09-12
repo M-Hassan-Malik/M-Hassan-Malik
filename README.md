@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=435&lines=Muhammad+Hassan+Malik" alt="Muhammad Hassan Malik" /></a>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Software+Engineer;Full-Stack Dev+@StarMarketing+IT Department;Empowering+solution+creation+for+success;Tech+Evangelist&font=Fira%20Code&center=true&width=600&height=45&color=4e96ff&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Lead+Software+Engineer;Working+with+Octalyte Digital;Empowering+solution+creation+for+success;Blockchain+Full-stack+Mob/Web+App;Tech+Evangelist&font=Fira%20Code&center=true&width=600&height=45&color=4e96ff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
